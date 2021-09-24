@@ -5,7 +5,7 @@ Simple calculator Using Android and Java:
 Introduction:
 The simple  calculator just doing add and subtract and multiply and divided.
 
-###Installing Dependencies:
+Installing Dependencies:
 Download Java JDK:
 For Mac : https://www.oracle.com/java/technologies/downloads/#jdk17-mac
 For Windows : https://www.oracle.com/java/technologies/downloads/#jdk17-windows
@@ -16,6 +16,7 @@ Mac (64-bit) : android-studio-2020.3.1.24-mac.dmg
 Linux (64-bit) :  android-studio-2020.3.1.24-linux.tar.gz
 
 Todo:
+
 Step One:
 * Open your Android Studio
 * Click on Start a New Android Studio Project.
