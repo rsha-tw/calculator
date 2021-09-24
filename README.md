@@ -8,7 +8,8 @@ Download Java JDK:
 - For Mac : https://www.oracle.com/java/technologies/downloads/#jdk17-mac
 - For Windows : https://www.oracle.com/java/technologies/downloads/#jdk17-windows
 - For linux : https://www.oracle.com/java/technologies/downloads/#jdk17-linux
- Upload Android studio from this link :
+
+Upload Android studio from this link :
 - Windows (64-bit) :  android-studio-2020.3.1.24-windows.exe
 - Mac (64-bit) : android-studio-2020.3.1.24-mac.dmg
 - Linux (64-bit) :  android-studio-2020.3.1.24-linux.tar.gz
