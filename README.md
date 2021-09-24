@@ -1,5 +1,3 @@
-# calculator
-
 Simple calculator Using Android and Java:
  
 Introduction:
@@ -16,7 +14,6 @@ Mac (64-bit) : android-studio-2020.3.1.24-mac.dmg
 Linux (64-bit) :  android-studio-2020.3.1.24-linux.tar.gz
 
 Todo:
-
 Step One:
 * Open your Android Studio
 * Click on Start a New Android Studio Project.
@@ -27,25 +24,16 @@ Step One:
 Frontend side:
 * Open your project structure .
 * Go to your activity_main.xml
-* And put 
+* And put activity_main.xml
 
 Backend side:
 
 * Open your project structure .
 * Go to your MainActivity.java.
-* And put 
+* And put  MainActivity.java
 
 Running our Calculator Android App:
 * Click on Android device manager. After selecting your custom device in Android device manager window, click START.
 * Click on Run button.
 * Choose Your device or emulator and click OK.
 * Now you can see calculator android app running.
-
-
-
-
-
-
-
-
-
