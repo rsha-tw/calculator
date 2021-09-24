@@ -25,13 +25,13 @@ Upload Android studio from this link :
 #### Frontend side:
 * Open your project structure .
 * Go to your activity_main.xml
-* And put activity_main.xml
+* And put activity_main.xml in this project.
 
 #### Backend side:
 
 * Open your project structure .
 * Go to your MainActivity.java.
-* And put  MainActivity.java
+* And put  MainActivity.java in this project.
 
 ### Running our Calculator Android App:
 * Click on Android device manager. After selecting your custom device in Android device manager window, click START.
